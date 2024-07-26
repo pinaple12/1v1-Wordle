@@ -1,9 +1,6 @@
 # INFO 441 Final Project
 Group 2: Ishita Saxena, Erica Zhang, Justin Dong, Kai Tinder
 
-NOTE: We attempted to deploy using Azure, but it would not work. Everything works locally.
-In order to test, open up two windows, sign in, and you can play against yourself.
-
 ## Project Description
 ### Who is our target audience?
 Our application will be crafted for competitive Wordle enthusiasts who are looking to amp up the excitement of their favorite game. The web app primarily appeals to enthusiastic young adults who want to challenge their friends and others as an escape from their busy lives. Students and young professionals often have very busy schedules, and our application provides a nice break from their responsibilities. 
